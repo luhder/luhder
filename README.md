@@ -4,9 +4,10 @@
 **🤖About me**
 <p>I am a B.Tech graduate in Computer Science and Engineering, currently advancing my expertise in software testing through an SDET course at Masai. With a strong passion for Java and JavaScript, I am committed to developing robust testing skills that ensure quality and efficiency in software development. </p>
 
+
 **🚀Projects**
 
-**1. Manual Testing on ACME Website**
+### 1. [Manual Testing on ACME Website](https://github.com/luhder/Manual-Testing-ACME)
 
 Conducted thorough manual testing on the ACME website to identify and document bugs, validate functionality, and ensure optimal user experience.
 Key Activities:
@@ -14,7 +15,7 @@ Test case creation and execution
 Defect reporting and tracking
 Exploratory testing for edge cases
 
-**2. Cypress Manual + Automation Testing**
+### 2. [Cypress Manual + Automation Testing](https://github.com/luhder/CypressAutomationProject)
 
 Combined manual and automated testing methodologies using Cypress to validate web application functionality and streamline the QA process.
 Key Activities:
