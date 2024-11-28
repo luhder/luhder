@@ -7,7 +7,7 @@
 
 **🚀Projects**
 
-### 1. [Manual Testing on ACME Website](https://github.com/luhder/Manual-Testing-ACME)
+### 1. [Manual Testing on ACME Website](https://github.com/luhder/Manual-Testing-ACME-)
 
 Conducted thorough manual testing on the ACME website to identify and document bugs, validate functionality, and ensure optimal user experience.
 Key Activities:
