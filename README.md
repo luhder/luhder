@@ -10,17 +10,19 @@
 ### 1. [Manual Testing on ACME Website](https://github.com/luhder/Manual-Testing-ACME-)
 
 Conducted thorough manual testing on the ACME website to identify and document bugs, validate functionality, and ensure optimal user experience.
+
 Key Activities:
-Test case creation and execution
-Defect reporting and tracking
+Test case creation and execution, 
+Defect reporting and tracking, 
 Exploratory testing for edge cases
 
 ### 2. [Cypress Manual + Automation Testing](https://github.com/luhder/CypressAutomationProject)
 
 Combined manual and automated testing methodologies using Cypress to validate web application functionality and streamline the QA process.
+
 Key Activities:
-Developed and executed automated test scripts
-Verified application behavior against requirements
+Developed and executed automated test scripts, 
+Verified application behavior against requirements, 
 Performed end-to-end testing
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
