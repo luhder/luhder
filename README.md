@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm REDHUL K R</h1>
 <h3 align="center">I'M AN ASPIRING SOFTWARE DEVELOPMENT ENGINEER IN TEST</h3>
-<p>I am a B.Tech graduate in Computer Science and Engineering, currently advancing my expertise in software testing through an SDET course at Masai. With a strong passion for Java and JavaScript, I am committed to developing robust testing skills that ensure quality and efficiency in software development. 
+
+**🤖About me**
+<p>I am a B.Tech graduate in Computer Science and Engineering, currently advancing my expertise in software testing through an SDET course at Masai. With a strong passion for Java and JavaScript, I am committed to developing robust testing skills that ensure quality and efficiency in software development. </p>
+
+**🚀Projects**
+
+**1. Manual Testing on ACME Website**
+
+Conducted thorough manual testing on the ACME website to identify and document bugs, validate functionality, and ensure optimal user experience.
+Key Activities:
+Test case creation and execution
+Defect reporting and tracking
+Exploratory testing for edge cases
+
+**2. Cypress Manual + Automation Testing**
+
+Combined manual and automated testing methodologies using Cypress to validate web application functionality and streamline the QA process.
+Key Activities:
+Developed and executed automated test scripts
+Verified application behavior against requirements
+Performed end-to-end testing
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luhder&label=Profile%20views&color=0e75b6&style=flat" alt="luhder" /> </p>
